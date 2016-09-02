@@ -1,0 +1,1 @@
+include ':app', ':compt', ':textviewrun', ':textlogcat', ':textcheck'

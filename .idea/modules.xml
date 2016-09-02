@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Computer.iml" filepath="$PROJECT_DIR$/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compt/compt.iml" filepath="$PROJECT_DIR$/compt/compt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textcheck/textcheck.iml" filepath="$PROJECT_DIR$/textcheck/textcheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textlogcat/textlogcat.iml" filepath="$PROJECT_DIR$/textlogcat/textlogcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textviewrun/textviewrun.iml" filepath="$PROJECT_DIR$/textviewrun/textviewrun.iml" />
+    </modules>
+  </component>
+</project>

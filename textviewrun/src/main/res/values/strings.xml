@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView Run</string>
+    <string name="hello">This is a 跑马灯~This is a 跑马灯~This is a 跑马灯~This is a 跑马灯~This is a 跑马灯~</string>
+</resources>
