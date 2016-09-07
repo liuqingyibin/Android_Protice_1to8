@@ -9,21 +9,29 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/android_protice2" />
+            <option value="$PROJECT_DIR$/android_protice3" />
+            <option value="$PROJECT_DIR$/android_protice4" />
+            <option value="$PROJECT_DIR$/android_protice5" />
+            <option value="$PROJECT_DIR$/android_protice6" />
+            <option value="$PROJECT_DIR$/android_protice_1_helloword" />
             <option value="$PROJECT_DIR$/compt" />
-            <option value="$PROJECT_DIR$/textcheck" />
-            <option value="$PROJECT_DIR$/textlogcat" />
-            <option value="$PROJECT_DIR$/textviewrun" />
+            <option value="$PROJECT_DIR$/protice_13" />
+            <option value="$PROJECT_DIR$/protice_topic6_text" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/android_protice2" />
+            <option value="$PROJECT_DIR$/android_protice3" />
+            <option value="$PROJECT_DIR$/android_protice4" />
+            <option value="$PROJECT_DIR$/android_protice5" />
+            <option value="$PROJECT_DIR$/android_protice6" />
+            <option value="$PROJECT_DIR$/android_protice_1_helloword" />
             <option value="$PROJECT_DIR$/compt" />
-            <option value="$PROJECT_DIR$/textcheck" />
-            <option value="$PROJECT_DIR$/textlogcat" />
-            <option value="$PROJECT_DIR$/textviewrun" />
+            <option value="$PROJECT_DIR$/protice_13" />
+            <option value="$PROJECT_DIR$/protice_topic6_text" />
           </set>
         </option>
       </GradleProjectSettings>

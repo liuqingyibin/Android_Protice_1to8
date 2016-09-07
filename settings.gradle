@@ -1,1 +1,1 @@
-include ':app', ':compt', ':textviewrun', ':textlogcat', ':textcheck'
+include ':compt', ':protice_13', ':android_protice_1_helloword', ':protice_topic6_text', ':android_protice6', ':android_protice3', ':android_protice2', ':android_protice4', ':android_protice5'

@@ -1,11 +1,23 @@
 package com.example.textcheck;
 
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.RadioGroup;
+
+import java.io.BufferedOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.OutputStream;
+import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,11 +25,55 @@ public class MainActivity extends AppCompatActivity {
 
     private RadioGroup rg;
 
+    private ArrayList<Map<String, String>>getAll(){
+        SQLiteDatabase db=mDbHelper.getReadableDatabase();
+    }
+    public boolean isExternalStorageWritable(){
+        String state= Environment.getExternalStorageState();
+        if(Environment.MEDIA_MOUNTED.equals(state)){
+            return true;
+        }
+        return false;
+    }
+
+    private Button btnWrite;
+    private Button btnaRead;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        btnWrite=(Button) findViewById(R.id.btnwrite);
+        btnaRead=(Button) findViewById(R.id.btnread);
 
+
+
+        btnWrite.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                OutputStream out=null;
+                try{
+                    if(Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)){
+                        File file=Environment.getExternalStorageDirectory();
+                        File myfile=new File(file.getCanonicalPath()+"/"+MyFile);
+                        FileOutputStream fileOutputStream=new FileOutputStream(myfile);
+                        out =new BufferedOutputStream(fileOutputStream);
+                        String content="hello world";
+                        try{
+                            out.write(content.getBytes(StandardCharsets.UTF_8));
+
+                        }finally {
+                            if(out!=null)
+                                out.close();
+                        }
+                    }
+                }
+                catch (Exception e){
+                    e.printStackTrace();
+                }
+            }
+        });
         rg = (RadioGroup) findViewById(R.id.RadioGroup1);
         rg.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
                                           @Override
@@ -49,8 +105,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
     }
-
-
 }

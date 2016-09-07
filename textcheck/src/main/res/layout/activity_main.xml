@@ -33,6 +33,10 @@
         android:layout_below="@+id/textView"
         android:layout_alignParentEnd="true">
 
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Write a file" android:id="@+id/btnwrite"
+            android:layout_gravity="bottom" />
+
         <RadioButton
 
             android:layout_width="wrap_content"
@@ -46,6 +50,9 @@
             android:layout_height="wrap_content"
             android:text="不喜欢"
             android:id="@+id/radioButton2" />
+
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Read a file" android:id="@+id/btnread" android:layout_gravity="bottom" />
 
         <RadioGroup
             android:layout_width="wrap_content"

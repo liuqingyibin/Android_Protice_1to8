@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Computer.iml" filepath="$PROJECT_DIR$/Computer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_protice2/android_protice2.iml" filepath="$PROJECT_DIR$/android_protice2/android_protice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_protice3/android_protice3.iml" filepath="$PROJECT_DIR$/android_protice3/android_protice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_protice4/android_protice4.iml" filepath="$PROJECT_DIR$/android_protice4/android_protice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_protice5/android_protice5.iml" filepath="$PROJECT_DIR$/android_protice5/android_protice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_protice6/android_protice6.iml" filepath="$PROJECT_DIR$/android_protice6/android_protice6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_protice_1_helloword/android_protice_1_helloword.iml" filepath="$PROJECT_DIR$/android_protice_1_helloword/android_protice_1_helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/compt/compt.iml" filepath="$PROJECT_DIR$/compt/compt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/textcheck/textcheck.iml" filepath="$PROJECT_DIR$/textcheck/textcheck.iml" />
-      <module fileurl="file://$PROJECT_DIR$/textlogcat/textlogcat.iml" filepath="$PROJECT_DIR$/textlogcat/textlogcat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/textviewrun/textviewrun.iml" filepath="$PROJECT_DIR$/textviewrun/textviewrun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protice_13/protice_13.iml" filepath="$PROJECT_DIR$/protice_13/protice_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protice_topic6_text/protice_topic6_text.iml" filepath="$PROJECT_DIR$/protice_topic6_text/protice_topic6_text.iml" />
     </modules>
   </component>
 </project>
