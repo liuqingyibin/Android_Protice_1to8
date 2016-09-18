@@ -9,29 +9,53 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android._protice7" />
+            <option value="$PROJECT_DIR$/android._protice9" />
+            <option value="$PROJECT_DIR$/android_protice1" />
+            <option value="$PROJECT_DIR$/android_protice10" />
+            <option value="$PROJECT_DIR$/android_protice11" />
+            <option value="$PROJECT_DIR$/android_protice12" />
+            <option value="$PROJECT_DIR$/android_protice12.1" />
+            <option value="$PROJECT_DIR$/android_protice13" />
+            <option value="$PROJECT_DIR$/android_protice14" />
+            <option value="$PROJECT_DIR$/android_protice15" />
+            <option value="$PROJECT_DIR$/android_protice16" />
+            <option value="$PROJECT_DIR$/android_protice17" />
+            <option value="$PROJECT_DIR$/android_protice18" />
+            <option value="$PROJECT_DIR$/android_protice19" />
             <option value="$PROJECT_DIR$/android_protice2" />
             <option value="$PROJECT_DIR$/android_protice3" />
+            <option value="$PROJECT_DIR$/android_protice30" />
             <option value="$PROJECT_DIR$/android_protice4" />
             <option value="$PROJECT_DIR$/android_protice5" />
             <option value="$PROJECT_DIR$/android_protice6" />
-            <option value="$PROJECT_DIR$/android_protice_1_helloword" />
-            <option value="$PROJECT_DIR$/compt" />
-            <option value="$PROJECT_DIR$/protice_13" />
-            <option value="$PROJECT_DIR$/protice_topic6_text" />
+            <option value="$PROJECT_DIR$/android_protice8" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android._protice7" />
+            <option value="$PROJECT_DIR$/android._protice9" />
+            <option value="$PROJECT_DIR$/android_protice1" />
+            <option value="$PROJECT_DIR$/android_protice10" />
+            <option value="$PROJECT_DIR$/android_protice11" />
+            <option value="$PROJECT_DIR$/android_protice12" />
+            <option value="$PROJECT_DIR$/android_protice12.1" />
+            <option value="$PROJECT_DIR$/android_protice13" />
+            <option value="$PROJECT_DIR$/android_protice14" />
+            <option value="$PROJECT_DIR$/android_protice15" />
+            <option value="$PROJECT_DIR$/android_protice16" />
+            <option value="$PROJECT_DIR$/android_protice17" />
+            <option value="$PROJECT_DIR$/android_protice18" />
+            <option value="$PROJECT_DIR$/android_protice19" />
             <option value="$PROJECT_DIR$/android_protice2" />
             <option value="$PROJECT_DIR$/android_protice3" />
+            <option value="$PROJECT_DIR$/android_protice30" />
             <option value="$PROJECT_DIR$/android_protice4" />
             <option value="$PROJECT_DIR$/android_protice5" />
             <option value="$PROJECT_DIR$/android_protice6" />
-            <option value="$PROJECT_DIR$/android_protice_1_helloword" />
-            <option value="$PROJECT_DIR$/compt" />
-            <option value="$PROJECT_DIR$/protice_13" />
-            <option value="$PROJECT_DIR$/protice_topic6_text" />
+            <option value="$PROJECT_DIR$/android_protice8" />
           </set>
         </option>
       </GradleProjectSettings>

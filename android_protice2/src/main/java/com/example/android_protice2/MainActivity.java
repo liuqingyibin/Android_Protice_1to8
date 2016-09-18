@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i(tag, "Info Message");
         Log.w(tag, "Warning Message");
         Log.e(tag, "Error Message");
-        Button button = (Button) findViewById(R.id.wqe);
+        Button button = (Button) findViewById(R.id.qwe);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
