@@ -25,6 +25,14 @@
         android:id="@+id/btnStart"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/textView" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPause"
+        android:layout_centerHorizontal="true"
+        android:text="暂停"
+        android:textSize="20sp"
+        android:layout_below="@+id/btnStart" />
 
     <Button
         android:layout_width="wrap_content"
@@ -32,6 +40,6 @@
         android:text="停止"
         android:textSize="20sp"
         android:layout_centerHorizontal="true"
-        android:layout_below="@+id/btnStart"
+        android:layout_below="@+id/btnPause"
         android:id="@+id/btnStop" />
 </RelativeLayout>
