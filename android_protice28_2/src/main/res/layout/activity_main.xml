@@ -25,6 +25,7 @@
         android:id="@+id/btnStart"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/textView" />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

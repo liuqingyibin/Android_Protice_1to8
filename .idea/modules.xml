@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/19_2_android_protice/19_2_android_protice.iml" filepath="$PROJECT_DIR$/19_2_android_protice/19_2_android_protice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_android_protice/20_android_protice.iml" filepath="$PROJECT_DIR$/20_android_protice/20_android_protice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_android_protice/android_protice21.iml" filepath="$PROJECT_DIR$/21_android_protice/android_protice21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_android_protice/andorid_protice22_1.iml" filepath="$PROJECT_DIR$/22_android_protice/andorid_protice22_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Computer.iml" filepath="$PROJECT_DIR$/Computer.iml" />
       <module fileurl="file://$PROJECT_DIR$/android._protice7/android._protice7.iml" filepath="$PROJECT_DIR$/android._protice7/android._protice7.iml" />
       <module fileurl="file://$PROJECT_DIR$/android._protice9/android._protice9.iml" filepath="$PROJECT_DIR$/android._protice9/android._protice9.iml" />
@@ -17,11 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/android_protice16/android_protice16.iml" filepath="$PROJECT_DIR$/android_protice16/android_protice16.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_protice17/android_protice17.iml" filepath="$PROJECT_DIR$/android_protice17/android_protice17.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_protice18/android_protice18.iml" filepath="$PROJECT_DIR$/android_protice18/android_protice18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android_protice19/android_protice19.iml" filepath="$PROJECT_DIR$/android_protice19/android_protice19.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android_protice19.1/android_protice19.1.iml" filepath="$PROJECT_DIR$/android_protice19.1/android_protice19.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_protice2/android_protice2.iml" filepath="$PROJECT_DIR$/android_protice2/android_protice2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android_protice20/android_protice20.iml" filepath="$PROJECT_DIR$/android_protice20/android_protice20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android_protice21/android_protice21.iml" filepath="$PROJECT_DIR$/android_protice21/android_protice21.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_protice22/android_protice22.iml" filepath="$PROJECT_DIR$/android_protice22/android_protice22.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_protice24/android_protice24.iml" filepath="$PROJECT_DIR$/android_protice24/android_protice24.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_protice26/android_protice26.iml" filepath="$PROJECT_DIR$/android_protice26/android_protice26.iml" />

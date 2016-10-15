@@ -39,7 +39,7 @@
                 android:layout_height="wrap_content"
                 android:hint="请输入密码"
                 android:id="@+id/editTextPassword"
-
+                android:inputType="textPassword"
                 android:layout_gravity="center_vertical" />
         </LinearLayout>
     </LinearLayout>

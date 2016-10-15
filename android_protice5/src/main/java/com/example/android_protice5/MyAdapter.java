@@ -3,12 +3,13 @@ package com.example.android_protice5;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AbsListView;
 import android.widget.TextView;
 
 /**
  * Created by Administrator on 2016/9/7.
  */
-public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
+public class MyAdapter extends AbsListView.RecyclerListener {
     private String[] mDataset;
 
     @Override

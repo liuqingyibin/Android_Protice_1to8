@@ -7,13 +7,29 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.android_protice5.MainActivity">
+    tools:context="com.example.a19_2_android_protice.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="安卓练习19_2"
         android:id="@+id/textView"
-        android:text="安卓练习5"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnwrite"
         android:layout_centerHorizontal="true"
-        android:textSize="30sp" />
+        android:layout_below="@+id/textView"
+        android:text="Write to SD" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnread"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/btnwrite"
+        android:text="Read form SD" />
 </RelativeLayout>
